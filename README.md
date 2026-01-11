@@ -41,7 +41,7 @@ Bu projeyi kendi bilgisayarınızda incelemek için:
     git clone [https://github.com/keremsener/YakinKampus-Unity-Exercises.git](https://github.com/keremsener/YakinKampus-Unity-Exercises.git)
     ```
 2.  Unity Hub'ı açın ve **Add** butonuna basarak klasörü seçin.
-3.  Proje **Unity 6 (6000.x)** sürümü ile oluşturulmuştur.
+3.  Proje **Unity 6.3 LTS** sürümü ile güncellenmiştir.
 
 ---
 *Bu proje, öğrenme amaçlı geliştirilmeye devam etmektedir.*
